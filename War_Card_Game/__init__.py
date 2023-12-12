@@ -1,4 +1,4 @@
-# Card Class, to know suit, rank, integer value
+g# Card Class, to know suit, rank, integer value
 
 import random
 
